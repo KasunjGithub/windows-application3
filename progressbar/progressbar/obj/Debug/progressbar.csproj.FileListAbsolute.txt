@@ -1,0 +1,24 @@
+E:\2019\Advanced Computer Programming\windows Form Application\2023.05.24\progressbar\progressbar\bin\Debug\progressbar.exe.config
+E:\2019\Advanced Computer Programming\windows Form Application\2023.05.24\progressbar\progressbar\bin\Debug\progressbar.exe
+E:\2019\Advanced Computer Programming\windows Form Application\2023.05.24\progressbar\progressbar\bin\Debug\progressbar.pdb
+E:\2019\Advanced Computer Programming\windows Form Application\2023.05.24\progressbar\progressbar\obj\Debug\progressbar.csproj.AssemblyReference.cache
+E:\2019\Advanced Computer Programming\windows Form Application\2023.05.24\progressbar\progressbar\obj\Debug\progressbar.csproj.SuggestedBindingRedirects.cache
+E:\2019\Advanced Computer Programming\windows Form Application\2023.05.24\progressbar\progressbar\obj\Debug\progressbar.Form1.resources
+E:\2019\Advanced Computer Programming\windows Form Application\2023.05.24\progressbar\progressbar\obj\Debug\progressbar.Form2.resources
+E:\2019\Advanced Computer Programming\windows Form Application\2023.05.24\progressbar\progressbar\obj\Debug\progressbar.Properties.Resources.resources
+E:\2019\Advanced Computer Programming\windows Form Application\2023.05.24\progressbar\progressbar\obj\Debug\progressbar.csproj.GenerateResource.cache
+E:\2019\Advanced Computer Programming\windows Form Application\2023.05.24\progressbar\progressbar\obj\Debug\progressbar.csproj.CoreCompileInputs.cache
+E:\2019\Advanced Computer Programming\windows Form Application\2023.05.24\progressbar\progressbar\obj\Debug\progressbar.exe
+E:\2019\Advanced Computer Programming\windows Form Application\2023.05.24\progressbar\progressbar\obj\Debug\progressbar.pdb
+C:\Users\USER\Downloads\P\P\progressbar\progressbar\bin\Debug\progressbar.exe.config
+C:\Users\USER\Downloads\P\P\progressbar\progressbar\bin\Debug\progressbar.exe
+C:\Users\USER\Downloads\P\P\progressbar\progressbar\bin\Debug\progressbar.pdb
+C:\Users\USER\Downloads\P\P\progressbar\progressbar\obj\Debug\progressbar.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\P\P\progressbar\progressbar\obj\Debug\progressbar.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Downloads\P\P\progressbar\progressbar\obj\Debug\progressbar.Form1.resources
+C:\Users\USER\Downloads\P\P\progressbar\progressbar\obj\Debug\progressbar.Form2.resources
+C:\Users\USER\Downloads\P\P\progressbar\progressbar\obj\Debug\progressbar.Properties.Resources.resources
+C:\Users\USER\Downloads\P\P\progressbar\progressbar\obj\Debug\progressbar.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\P\P\progressbar\progressbar\obj\Debug\progressbar.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\P\P\progressbar\progressbar\obj\Debug\progressbar.exe
+C:\Users\USER\Downloads\P\P\progressbar\progressbar\obj\Debug\progressbar.pdb
